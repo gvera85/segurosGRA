@@ -1096,8 +1096,7 @@ ol {
     transition: all 0.4s;
 }
 
-.footer-social a:hover {
-    
+.footer-social a:hover {    
     background: #ffc000;
 }
 
