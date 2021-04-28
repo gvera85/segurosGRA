@@ -1,0 +1,4 @@
+Letra: Arial Rounded MT
+Tamaño: 40
+Color amarillo: ffbb00
+Color gris: 3b3737
